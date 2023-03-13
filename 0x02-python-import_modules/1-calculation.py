@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+et f!/usr/bin/python3
 # 1-calculation.py
 # Brennan D Baraban <375@holbertonschool.com>
 
